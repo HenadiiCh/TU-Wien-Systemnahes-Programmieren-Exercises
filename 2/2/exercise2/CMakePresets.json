@@ -1,0 +1,23 @@
+{
+    "version": 6,
+    "include": [
+        "cmake/presets/linux-debug-asan.json",
+        "cmake/presets/linux-debug.json",
+        "cmake/presets/linux-release.json"
+    ],
+    "configurePresets": [
+        {
+            "name": "debug",
+            "inherits": "linux-debug-asan",
+            "hidden": false,
+            "binaryDir": "${sourceDir}/build"
+        },
+        {
+            "name": "release",
+            "inherits": "linux-release",
+            "hidden": false,
+            "binaryDir": "${sourceDir}/build"
+        }
+    ],
+    "buildPresets": []
+}

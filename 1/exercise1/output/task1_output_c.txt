@@ -1,0 +1,4 @@
+This compilation unit ( src/task1.test.c ) was compiled
+  - on Mar 15 2026 at 18:30:41,
+  - using the GCC 11.4.0 compiler,
+  - the C language standard 201112.

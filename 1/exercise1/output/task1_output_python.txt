@@ -1,0 +1,5 @@
+This script (task1.test.py) was executed
+  - on 2026-03-15 18:32:42.197863,
+  - using CPython 3.10.12,
+  - with numpy 1.21.5, and
+  - with matplotlib 3.5.1.

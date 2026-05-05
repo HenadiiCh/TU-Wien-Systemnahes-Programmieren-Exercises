@@ -1,0 +1,4 @@
+This compilation unit ( src/task1.test.cpp ) was compiled
+  - on Mar 15 2026 at 17:47:39
+  - using the GCC 11.4.0 compiler,
+  - and the C++ language standard 202002.
