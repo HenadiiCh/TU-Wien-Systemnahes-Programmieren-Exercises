@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="157.14641mm"
+   height="156.93359mm"
+   viewBox="0 0 157.14641 156.93359"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ArrowTriangleStylized"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m 6,0 c -3,1 -7,3 -9,5 0,0 0,-4 2,-5 -2,-1 -2,-5 -2,-5 2,2 6,4 9,5 z"
+         id="path5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowTriangleStylized-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m 6,0 c -3,1 -7,3 -9,5 0,0 0,-4 2,-5 -2,-1 -2,-5 -2,-5 2,2 6,4 9,5 z"
+         id="path5-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowTriangleStylized-7-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m 6,0 c -3,1 -7,3 -9,5 0,0 0,-4 2,-5 -2,-1 -2,-5 -2,-5 2,2 6,4 9,5 z"
+         id="path5-4-4" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-9.4766003,-6.1745377)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:1, 1;stroke-dashoffset:0;paint-order:stroke fill markers"
+       id="rect1"
+       width="108"
+       height="51.5625"
+       x="55.875"
+       y="53.8125" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1-8"
+       width="54.184082"
+       height="25.869137"
+       x="38.503929"
+       y="95.935204" />
+    <circle
+       style="fill:#001cff;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path1"
+       cx="20.90625"
+       cy="138.09375"
+       r="2.71875" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 21.9375,66.374999 V 21.375 l 23.90625,23.906249 z"
+       id="path2" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.99839;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 92.098504,138.51166 h 44.927536 l -23.86775,23.86775 z"
+       id="path2-6" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path3"
+       cx="84.514244"
+       cy="25.451746"
+       r="18.65625" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path3-6"
+       cx="147.46675"
+       cy="25.330788"
+       r="18.65625" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="9.375"
+       y="144.46873"
+       id="text3"><tspan
+         id="tspan3"
+         style="stroke-width:0.264583"
+         x="9.375"
+         y="144.46873">origin/reference for rotation/scaling</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#5aff00;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#ArrowTriangleStylized);paint-order:stroke fill markers"
+       d="m 84.28546,25.289279 h 60.51702"
+       id="path4" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="105.09375"
+       y="22.96875"
+       id="text6"><tspan
+         id="tspan6"
+         style="stroke-width:0.264583"
+         x="105.09375"
+         y="22.96875">circle translation</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#5aff00;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ArrowTriangleStylized);paint-order:stroke fill markers"
+       d="M 22.02082,137.47129 164.06884,54.52359"
+       id="path4-6" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#5aff00;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ArrowTriangleStylized-7);paint-order:stroke fill markers"
+       d="M 21.800191,137.19283 56.316959,105.33888"
+       id="path4-6-2" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#5aff00;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ArrowTriangleStylized-7-7);paint-order:stroke fill markers"
+       d="m 137.32506,137.78142 c 0,0 5.91531,-49.901612 -30.83866,-85.171136 C 73.775674,21.220699 22.779331,21.27122 22.779331,21.27122"
+       id="path4-6-2-3" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="-21.878584"
+       y="126.34824"
+       id="text6-5"
+       transform="rotate(-33.846674)"><tspan
+         id="tspan6-6"
+         style="stroke-width:0.264583"
+         x="-21.878584"
+         y="126.34824">bbox scaling</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82223px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="114.28627"
+       y="-46.094318"
+       id="text6-5-6"
+       transform="rotate(50.491624)"><tspan
+         id="tspan6-6-8"
+         style="stroke-width:0.264583"
+         x="114.28627"
+         y="-46.094318">triangle rotation</tspan></text>
+  </g>
+</svg>

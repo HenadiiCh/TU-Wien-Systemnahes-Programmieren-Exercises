@@ -1,0 +1,13 @@
+{
+    "version": 6,
+    "configurePresets": [
+        {
+            "name": "linux-debug",
+            "hidden": true,
+            "cacheVariables": {
+                "CMAKE_CXX_FLAGS": "-Wall -Wextra -O0 -g",
+                "CMAKE_BUILD_TYPE": "Debug"
+            }
+        }
+    ]
+}
